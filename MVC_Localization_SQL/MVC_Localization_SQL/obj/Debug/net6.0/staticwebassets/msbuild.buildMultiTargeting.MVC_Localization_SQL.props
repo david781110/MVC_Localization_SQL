@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVC_Localization_SQL.props" />
+</Project>
